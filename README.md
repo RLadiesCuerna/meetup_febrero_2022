@@ -1,5 +1,8 @@
 # Uso básico de variables y de expresiones aritméticas y lógicas en R
 
+¡Bienvenidos! En este Meetup hablaremos sobre los principios básicos de la creación y uso de variables en R y sobre cómo usar variables en operaciones aritméticas y lógicas.
+
+
 ## Fecha 
 Jueves 10 de Febrero de 2022
 
@@ -15,11 +18,8 @@ Aurora estudió la Licenciatura en Investigación Biomédica y la Maestría en C
 
 Para descargar este repositorio, da click en el botón Code > Download zip. Si lo prefieres, puedes usar el comando git clone < url_repositorio > desde tu terminal para clonar el repositorio.
 
-¡Bienvenidos! En este Meetup hablaremos sobre los principios básicos de la creación y uso de variables en R y sobre cómo usar variables en operaciones aritméticas y lógicas.
-
 
 ## Temario
-
 
 * Variables en R
 
@@ -33,7 +33,6 @@ Para descargar este repositorio, da click en el botón Code > Download zip. Si l
 
 
 ## Conocimientos previos requeridos
-
 
 Dirigido a principiantes en el uso de R y a quienes busquen reforzar los conceptos fundamentales de este lenguaje de programación.
 
