@@ -19,7 +19,7 @@ Aurora estudi贸 la Licenciatura en Investigaci贸n Biom茅dica y la Maestr铆a en C
 Para descargar este repositorio, da click en el bot贸n Code > Download zip. Si lo prefieres, puedes usar el comando git clone < url_repositorio > desde tu terminal para clonar el repositorio.
 
 
-##聽Temario
+##燭emario
 
 * Variables en R
 
@@ -32,7 +32,7 @@ Para descargar este repositorio, da click en el bot贸n Code > Download zip. Si l
 * Operaciones l贸gicas compuestas usando a AND, OR y NOT
 
 
-##聽Conocimientos previos requeridos
+##燙onocimientos previos requeridos
 
 Dirigido a principiantes en el uso de R y a quienes busquen reforzar los conceptos fundamentales de este lenguaje de programaci贸n.
 
