@@ -20,6 +20,7 @@ Para descargar este repositorio, da click en el botón Code > Download zip. Si l
 
 ## Temario
 
+
 * Variables en R
 
 * Vectores
@@ -32,6 +33,7 @@ Para descargar este repositorio, da click en el botón Code > Download zip. Si l
 
 
 ## Conocimientos previos requeridos
+
 
 Dirigido a principiantes en el uso de R y a quienes busquen reforzar los conceptos fundamentales de este lenguaje de programación.
 
